@@ -1,0 +1,8 @@
+.SideNav .active {
+  background-color: #F2F3FE;
+  color:#038EDC ;
+}
+.SideNav .active:hover {
+  background-color: #F2F3FE;
+    color: #038EDC;
+}

@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box
+}
+
+.container {
+  @apply mx-auto;
+}
+
+body {
+  @apply text-gray-400;
+  font-family: 'Lato', sans-serif
+}
+
+::selection {
+  @apply bg-green-400 text-white;
+}

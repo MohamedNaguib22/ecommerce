@@ -1,0 +1,14 @@
+export const baseURL = `http://127.0.0.1:8000/api`;
+export const REGISTER = "register";
+export const LOGIN = "login";
+export const LOGOUT = "logout";
+export const USER = "user";
+export const USERS = "users";
+export const Cat = "category";
+export const CAT = "categories";
+export const PRO = "products";
+export const Pro = "product";
+export const EDIT = "edit";
+export const UPLOAD = "product-img";
+export const ADD = "add";
+export const GOOGLECALLBACK = "auth/google/callback";
